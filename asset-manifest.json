@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wk6assessment2/static/css/main.612f1634.chunk.css",
+    "main.js": "/wk6assessment2/static/js/main.76791986.chunk.js",
+    "main.js.map": "/wk6assessment2/static/js/main.76791986.chunk.js.map",
+    "runtime-main.js": "/wk6assessment2/static/js/runtime-main.86cbc46e.js",
+    "runtime-main.js.map": "/wk6assessment2/static/js/runtime-main.86cbc46e.js.map",
+    "static/js/2.43bed026.chunk.js": "/wk6assessment2/static/js/2.43bed026.chunk.js",
+    "static/js/2.43bed026.chunk.js.map": "/wk6assessment2/static/js/2.43bed026.chunk.js.map",
+    "static/js/3.a147d42f.chunk.js": "/wk6assessment2/static/js/3.a147d42f.chunk.js",
+    "static/js/3.a147d42f.chunk.js.map": "/wk6assessment2/static/js/3.a147d42f.chunk.js.map",
+    "index.html": "/wk6assessment2/index.html",
+    "static/css/main.612f1634.chunk.css.map": "/wk6assessment2/static/css/main.612f1634.chunk.css.map",
+    "static/js/2.43bed026.chunk.js.LICENSE.txt": "/wk6assessment2/static/js/2.43bed026.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wk6assessment2/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cbc46e.js",
+    "static/js/2.43bed026.chunk.js",
+    "static/css/main.612f1634.chunk.css",
+    "static/js/main.76791986.chunk.js"
+  ]
+}
